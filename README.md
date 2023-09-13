@@ -4,7 +4,7 @@ This is a program built with Swift for the visionOS operating system that enable
 # Requirements
 In order to use this program, it is recommended that you have the following:
 * Xcode version 15.0 beta 8 (15A5229m) (previous versions of Xcode may not have the visionOS Simulator installed)
-* A Mac on the macOS operating system version 14.0 .
+* A Mac on the macOS operating system version 14.0 (Sonoma).
 
 It is not necessary to have an internet connection to use this program.
 
